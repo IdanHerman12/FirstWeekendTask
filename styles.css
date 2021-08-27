@@ -1,0 +1,8 @@
+#navbar{
+    position: fixed;
+    border-right: solid;
+}
+#main-doc {
+    position: absolute;
+    margin-left: 310px;
+}
