@@ -5,6 +5,11 @@ body{
     min-width: 290px;
   line-height: 1.5;
 }
+#mummy{
+    text-align: left;
+    width: 33.33%;
+    padding: 5px;
+}
 
 #main-doc > h1{
 font-size: 38px;
